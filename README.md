@@ -1,1 +1,1 @@
-# Unity3D.IsometricCamera-Odin.Support
+# Unity3D: IsometricCamera (with Odin Inspector)
